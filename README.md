@@ -9,12 +9,12 @@ Bu proje, ESBAŞ'taki bir staj kapsamında geliştirilmiş bir Flutter uygulamas
 
 Bu Flutter uygulaması, ESBAŞ Etkinlik Yönetim Sistemi API'sini kullanarak etkinlikler ve kullanıcılar ile ilgili çeşitli işlemleri gerçekleştirmek için tasarlanmıştır. Uygulama, etkinliklere katılım, kullanıcı yönetimi ve veri görüntüleme gibi işlevleri destekler.
 
-<img src="https://github.com/user-attachments/assets/eb905ebf-32ee-493b-a394-87321f8be22f" alt="Uygulama Ekran Görüntüsü" width="320"/>
+<img src="https://github.com/user-attachments/assets/eb905ebf-32ee-493b-a394-87321f8be22f" alt="Uygulama Ekran Görüntüsü" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/2c367c7a-de06-41b4-a9fb-37f91f7f656b" alt="Uygulama Ekran Görüntüsü" width="337"/>
+<img src="https://github.com/user-attachments/assets/2c367c7a-de06-41b4-a9fb-37f91f7f656b" alt="Uygulama Ekran Görüntüsü" width="300"/>
 
 
-<img src="https://github.com/user-attachments/assets/baf21829-d9a9-4a28-b8b7-49711e23dba5" alt="Uygulama Ekran Görüntüsü" width="340"/>
+<img src="https://github.com/user-attachments/assets/baf21829-d9a9-4a28-b8b7-49711e23dba5" alt="Uygulama Ekran Görüntüsü" width="320"/>
 
 
 
